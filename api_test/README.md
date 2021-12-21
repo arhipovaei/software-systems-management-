@@ -21,6 +21,18 @@ GET pet list:
 
 <img width="1357" alt="Снимок экрана 2021-12-21 в 14 24 22" src="https://user-images.githubusercontent.com/72348256/146922361-1ea4b4d9-88b5-45fb-a161-133032449bb6.png">
 
+POST create pet simple:
+
+<img width="855" alt="Снимок экрана 2021-12-21 в 14 30 38" src="https://user-images.githubusercontent.com/72348256/146923192-06355c3d-a6ef-4ca6-8968-b33430caa63c.png">
+
+PUT info:
+
+<img width="1361" alt="Снимок экрана 2021-12-21 в 14 28 29" src="https://user-images.githubusercontent.com/72348256/146922870-8f4ab560-ba17-4929-a036-3a3aee31e2df.png">
+
+DELETE pet:
+
+<img width="1355" alt="Снимок экрана 2021-12-21 в 14 28 20" src="https://user-images.githubusercontent.com/72348256/146922909-1ce4a416-3e82-4d2a-bfb1-d8e09216cf90.png">
+
 
 После выполнения всех функций на Python с помощью библиотеки "requests", я начала их тестировать. В условии задания сказано, что мы должны использовать и фикстуры, и параметризацию. Фикстуры я буду использовать для всех функций, а параметризация подойдет для функции "POST".
 
