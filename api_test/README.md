@@ -9,7 +9,7 @@
 
 Результаты функций:
 
-GET API key:
+GET API key (Получение ключа API):
 
 <img width="824" alt="Снимок экрана 2021-12-21 в 14 19 52" src="https://user-images.githubusercontent.com/72348256/146922183-ef45900e-3e4c-486b-a138-57862d4153fd.png">
 
@@ -17,7 +17,7 @@ POST new pet:
 
 <img width="1348" alt="Снимок экрана 2021-12-21 в 14 23 41" src="https://user-images.githubusercontent.com/72348256/146922263-f75cf72f-dcb3-4455-bd34-0910c153f7a2.png">
 
-GET pet list:
+GET pet list (Получение списка My_Pets):
 
 <img width="1357" alt="Снимок экрана 2021-12-21 в 14 24 22" src="https://user-images.githubusercontent.com/72348256/146922361-1ea4b4d9-88b5-45fb-a161-133032449bb6.png">
 
